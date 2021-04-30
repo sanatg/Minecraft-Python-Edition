@@ -3,7 +3,7 @@ A python minecraft clone made in just 88 lines of code
 
 If you like this code smash the button below and follow me
 
-#setup
+# Setup
 pip3 install ursina
 
 python3 main.py
